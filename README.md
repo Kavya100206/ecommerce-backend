@@ -42,7 +42,7 @@ The project was developed as a **mini project for class evaluation** and demonst
 ## Project Structure
 
 com.example.ecommerce
-│
+```
 ├── controller # REST Controllers
 ├── service # Business logic
 ├── repository # MongoDB repositories
@@ -51,6 +51,7 @@ com.example.ecommerce
 ├── webhook # Payment webhook controller
 ├── config # Configuration classes
 └── EcommerceApplication.java
+```
 
 
 ---
